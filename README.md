@@ -7,6 +7,7 @@ PLEASE NOTE: The code only works on windows, future updates will also bring in M
 Current drawbacks:
   i) The code only works on windows
   ii) While filling in google forms, someone can add attendance for another member (this is where API's come into play. We are also working on reading emails and               matching them to find duplicates and thus remove them. 
+  iii) Please download the code and run it locally as server linking is yet to be done. Please make sure MySQL and mysql-python connectivity module is installed correctly. 
  
  
 Contributions : Mohak Vaswani, Meher Rushi Bharadwaj, Ethan D'sa
