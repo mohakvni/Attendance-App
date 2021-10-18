@@ -1,4 +1,6 @@
 # Attendance-App
+WELCOME TO ATAPP.
+
 This project is a work-in-progress. It focuses on integrating python with mySQL and google forms to record attendance of participants in an online meeting.
 Future updates will bring a GUI for the application, which is to be implemented using Tkinter.
 We are also trying to link the application with zoom API so that google forms can be comepletely replaced.
